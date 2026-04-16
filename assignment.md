@@ -25,6 +25,7 @@ Data transformation: I used Altair's internal aggregation, sum, to calculate the
 
 
 Plot 2
+
 Description: This visualization explores the history of building acquisitions over time, categorizedby their current status. 
 
 Design choices: I used Temporal (T) for Year Aquired, which i binned into 40 distinct periods to provide a clearer view of historical trends of acquisition. The Y axis represents a Quantitative (Q) count of the number of building acquired in those periods, and Nominal (N) color encoding for Bldg Status using the category10 color scheme, which provides high-contrast colors to help readers differentiate between different statuses easily.
